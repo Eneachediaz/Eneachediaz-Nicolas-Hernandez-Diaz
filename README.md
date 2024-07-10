@@ -5,7 +5,7 @@
 📍 Bogotá, Colombia | 📞 +57 3102223940 | ✉️ nicolasherdia@hotmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/nicolashernandezdiaz/) | [GitHub](https://github.com/nicolashernandezdiaz)
 
-Filósofo con Máster en Filosofía y formación en Ciencia de Datos, buscando aplicar habilidades analíticas, técnicas y de comunicación en un rol de Ingeniería de Datos Junior. Poseo experiencia práctica en Python, SQL, Databricks y Azure, empleando estas herramientas en el diseño de pipelines de datos, aprendizaje automático, procesamiento del lenguaje natural y sistemas de recomendación. Apasionado por la resolución de problemas complejos y el aprendizaje continuo, busco contribuir al crecimiento de una organización y aprender de profesionales experimentados.
+Máster en Filosofía y formación en Ciencia de Datos, buscando aplicar habilidades analíticas, técnicas y de comunicación en un rol de Ingeniería de Datos Junior. Poseo experiencia práctica en Python, SQL, Databricks y Azure, empleando estas herramientas en el diseño de pipelines de datos, aprendizaje automático, procesamiento del lenguaje natural y sistemas de recomendación. Apasionado por la resolución de problemas complejos y el aprendizaje continuo, busco contribuir al crecimiento de una organización y aprender de profesionales experimentados.
 
 ### Proyectos Destacados
 
